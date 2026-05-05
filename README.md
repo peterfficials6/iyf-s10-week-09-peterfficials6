@@ -1,12 +1,12 @@
-# 🚀 CommunityHub - React Application
+#  CommunityHub - React Application
 
-## 📋 Project Description
+## Project Description
 
 CommunityHub is a modern, full-featured React application built with Vite that demonstrates advanced React concepts and best practices. This project showcases a complete community platform with posts, user interactions, and a responsive design using Tailwind CSS. It serves as a comprehensive example of modern web development with React, including routing, state management, API integration, and reusable component architecture.
 
-## ✨ Features
+##  Features
 
-### 🎯 Main Project Features
+###  Main Project Features
 - **Multi-page Application**: Home, Posts, About, and Post Detail pages
 - **Dynamic Routing**: React Router with parameterized routes (`/posts/:postId`)
 - **Post Management**: Create, read, like, and delete posts
@@ -15,7 +15,7 @@ CommunityHub is a modern, full-featured React application built with Vite that d
 - **Interactive UI**: Smooth transitions, hover effects, and micro-interactions
 - **Component Library**: Reusable components with consistent design system
 
-### 🎪 Technical Challenges Demonstrated
+###  Technical Challenges Demonstrated
 - **Custom Hooks**: `useFetch`, `useLocalStorage`, `useToggle`, `useForm`
 - **State Management**: Complex state patterns with useState and useEffect
 - **Error Handling**: Comprehensive error boundaries and loading states
@@ -23,7 +23,7 @@ CommunityHub is a modern, full-featured React application built with Vite that d
 - **Accessibility**: Semantic HTML and ARIA practices
 - **Code Organization**: Modular architecture with clear separation of concerns
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks and functional components
@@ -40,7 +40,7 @@ CommunityHub is a modern, full-featured React application built with Vite that d
 ### External APIs
 - **JSONPlaceholder** - Mock API for posts and data
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Node.js 16+ installed
@@ -74,7 +74,7 @@ CommunityHub is a modern, full-featured React application built with Vite that d
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 iyf-s10-week-09-peterfficials6/
@@ -120,7 +120,7 @@ iyf-s10-week-09-peterfficials6/
 └── README.md              # This file
 ```
 
-## 🎯 API Endpoints
+##  API Endpoints
 
 ### JSONPlaceholder API
 - **GET** `/posts` - Fetch all posts
@@ -141,7 +141,7 @@ iyf-s10-week-09-peterfficials6/
 }
 ```
 
-## 📚 Lessons Learned
+##  Lessons Learned
 
 ### Technical Skills Mastered
 - **React Hooks**: Deep understanding of useState, useEffect, and custom hooks
@@ -160,7 +160,7 @@ iyf-s10-week-09-peterfficials6/
 - **Code Splitting**: Dynamic imports and bundle optimization
 - **Testing Patterns**: Component testing strategies
 
-## 🏆 Challenges Faced
+##  Challenges Faced
 
 ### Technical Challenges
 1. **Tailwind CSS Integration**
@@ -200,7 +200,7 @@ iyf-s10-week-09-peterfficials6/
 5. **Documentation**: README and code comments updates
 6. **Deployment**: Build optimization and repository management
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 - **User Authentication**: Login, registration, and user profiles
@@ -217,7 +217,7 @@ iyf-s10-week-09-peterfficials6/
 - **Performance Monitoring**: Bundle analysis and optimization
 - **SEO Optimization**: Meta tags and server-side rendering
 
-## 📊 Project Statistics
+##  Project Statistics
 
 - **Total Files**: 48
 - **Lines of Code**: 5,289+
@@ -228,7 +228,7 @@ iyf-s10-week-09-peterfficials6/
 - **Build Time**: ~2 seconds
 - **Bundle Size**: ~98KB (gzipped)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -248,7 +248,7 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **React Team** - For the amazing React library and ecosystem
 - **Tailwind CSS** - For the excellent utility-first CSS framework
@@ -258,10 +258,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🚀 Author
+##  Author
 
 **Peter Kamau**  
-📧 Email: peterfficials6@users.noreply.github.com  
+ Email: peterfficials6@users.noreply.github.com  
 🔗 GitHub: [@peterfficials6](https://github.com/peterfficials6)  
 💼 LinkedIn: [Peter Kamau](https://linkedin.com/in/peter-kamau)
 
