@@ -244,7 +244,7 @@ Contributions are welcome! Please follow these steps:
 - Update documentation for new features
 - Test thoroughly before submitting
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
