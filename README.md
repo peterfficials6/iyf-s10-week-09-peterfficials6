@@ -261,10 +261,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Author
 
 **Peter Kamau**  
- Email: peterfficials6@users.noreply.github.com  
-🔗 GitHub: [@peterfficials6](https://github.com/peterfficials6)  
-💼 LinkedIn: [Peter Kamau](https://linkedin.com/in/peter-kamau)
+ Email: peterfficials6@gmail.com  
+ GitHub: [@peterfficials6](https://github.com/peterfficials6)  
+ LinkedIn: [Peter Kamau](https://linkedin.com/in/peter-kamau)
 
 ---
 
-*Built with ❤️ using React, Vite, and Tailwind CSS*
+*Built with love using React, Vite, and Tailwind CSS*
